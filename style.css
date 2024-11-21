@@ -7,9 +7,7 @@ body{
     background-color: white;
     display: flex;
     height: 100vh;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: black;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif 
     
 
 
@@ -28,7 +26,15 @@ div{
 #toggle-button{
     padding: 20px;
     border-radius: 40px;
-    background-color: lightgray;
-    color: black;
+    background-color: orange;
+    color: grey;
 
+}
+
+.hide{
+    display: none;
+}
+
+.bg_black{
+    background-color: black;
 }
